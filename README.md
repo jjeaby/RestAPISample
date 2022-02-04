@@ -1,5 +1,5 @@
 # RestAPISample
-## Rest API Sample 
+This is a rest api server and rest api client example 
 
 ### How to Run
 1) start rest api mock server
